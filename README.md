@@ -8,9 +8,9 @@ To run the Right-To-Left Overrider interface download the `rtlo.jar` and double 
 
 Select an executable input file. Some files you might consider are shown in the table below.
 
-| **Executable&nbsp;Extension** | `.bat` | `.cmd` | `.com` | `.lnk` | `.pif` | `.scr` | `.vb` | `.vbe` | `.vbs` | `.wsh` | `.jar` |
-|-------------------------------|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
-| **Extension&nbsp;Reversed**   | `tab.` | `dmc.` | `moc.` | `knl.` | `fip.` | `rcs.` | `bv.` | `ebv.` | `sbv.` | `hsw.` | `raj.` |
+| **Executable Extension** | `.bat` | `.cmd` | `.com` | `.lnk` | `.pif` | `.scr` | `.vb` | `.vbe` | `.vbs` | `.wsh` | `.jar` |
+|--------------------------|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
+| **Extension Reversed**   | `tab.` | `dmc.` | `moc.` | `knl.` | `fip.` | `rcs.` | `bv.` | `ebv.` | `sbv.` | `hsw.` | `raj.` |
 
 ## References
 - [http://www.howtogeek.com/127154/how-hackers-can-disguise-malicious-programs-with-fake-file-extensions/](http://www.howtogeek.com/127154/how-hackers-can-disguise-malicious-programs-with-fake-file-extensions/)
