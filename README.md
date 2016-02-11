@@ -3,6 +3,8 @@ A small utility and interface for renaming files using the Unicode Right-To-Left
 
 ![Right-To-Left Overrider Interface](rtlo.png)
 
+The GUI would produce a copy of the input file renamed as `pl?fdp.exe`, where `?` is the Right-To-Left Override character (U+202E), so the displayed file name would appear to be `plexe.pdf` for systems that respect the Right-To-Left Override character in a filename.
+
 ## Usage
 To run the Right-To-Left Overrider interface download the `rtlo.jar` and double click it or run `java -jar rtlo.jar` from the command line. You have have Java 7 or higher installed.
 
