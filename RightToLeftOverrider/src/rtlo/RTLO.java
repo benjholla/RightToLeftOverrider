@@ -18,7 +18,7 @@ public class RTLO {
 		if(!displayExtension.startsWith(".")){
 			displayExtension = "." + displayExtension;
 		}
-		return filenamePrefix + filenameExtension + displayExtension;
+		return filenamePrefix + new StringBuilder(filenameExtension).reverse().toString() + displayExtension;
 	}
 	
 	/**
