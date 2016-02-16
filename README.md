@@ -16,6 +16,8 @@ Select an executable input file. Some executable extensions you might consider a
 |---------------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
 | **Reversed**  | `.exe` | `tab.` | `dmc.` | `moc.` | `knl.` | `fip.` | `rcs.` | `bv.` | `ebv.` | `sbv.` | `hsw.` | `raj.` |
 
+Since executables can be customized with an icon, changing the icon image to match the icon image of the displayed extension helps make the attack more believable.  On Windows systems several default icons can be extracted from `C:\Windows\system32\imageres.dll`. The [icons](./icons) folder included in this repository includes several extracted default and common third party icons.
+
 ## References
 - [http://www.howtogeek.com/127154/how-hackers-can-disguise-malicious-programs-with-fake-file-extensions/](http://www.howtogeek.com/127154/how-hackers-can-disguise-malicious-programs-with-fake-file-extensions/)
 - [http://krebsonsecurity.com/2011/09/right-to-left-override-aids-email-attacks/](http://krebsonsecurity.com/2011/09/right-to-left-override-aids-email-attacks/)
