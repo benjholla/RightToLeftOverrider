@@ -1,6 +1,5 @@
 package rtlo;
 
-
 public class RTLO {
 
 	private static final String RIGHT_TO_LEFT_OVERRIDE = "\u202E";
